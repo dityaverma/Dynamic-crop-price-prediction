@@ -1,0 +1,24 @@
+Model Trained for Nashik, Maharashtra-
+Dataset shape: (427554, 11)
+Columns: ['State', 'District', 'Market', 'Commodity', 'Variety', 'Grade', 'Arrival_Date', 'Min_Price', 'Max_Price', 'Modal_Price', 'Commodity_Code']
+Categorical columns for encoding: ['State', 'District', 'Market', 'Commodity', 'Variety', 'Grade']
+
+Encoded categorical features shape: (427554, 194)
+Numeric features shape: (427554, 6)
+Final feature matrix shape: (427554, 200)
+Target variable shape: (427554,)
+
+Training set size: (342043, 200)
+Test set size: (85511, 200)
+
+=== Linear Regression Performance Metrics ===
+Mean Squared Error (MSE): 132,583.35
+Root Mean Squared Error (RMSE): 364.12
+Mean Absolute Error (MAE): 166.52
+R-squared (R²): 0.9674
+
+=== XGBoost Performance Metrics ===
+Mean Squared Error (MSE): 97,208.02
+Root Mean Squared Error (RMSE): 311.78
+Mean Absolute Error (MAE): 135.69
+R-squared (R²): 0.9761

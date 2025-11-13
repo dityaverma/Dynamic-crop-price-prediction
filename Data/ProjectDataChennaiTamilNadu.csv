@@ -1,0 +1,605 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Tamil Nadu,Chennai,Chennai,Wheat,Other,FAQ,16/07/2010,2000,2200,2100,1
+Tamil Nadu,Chennai,Chennai,Wheat,White,FAQ,07/09/2010,800,1000,900,1
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,02/08/2010,800,1200,1100,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,06/08/2010,600,1300,900,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,03/09/2010,900,1200,1100,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,16/09/2010,2000,2400,2200,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,02/08/2010,2800,3000,2900,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,03/08/2010,800,950,850,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,18/08/2010,1800,2000,1900,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,26/08/2010,1800,2100,1900,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,31/08/2010,2000,2200,2100,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,02/09/2010,1800,1900,1850,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,07/09/2010,1800,2000,1900,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,08/09/2010,1400,1900,1600,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,14/09/2010,1400,1800,1600,23
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,13/07/2010,850,950,900,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,28/07/2010,800,1000,900,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,23/08/2010,900,1100,1000,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,02/09/2010,1000,1200,1100,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,03/09/2010,900,1200,1100,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,08/09/2010,700,1000,900,24
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,28/07/2010,2600,2800,2700,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,30/07/2010,2575,2850,2650,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,30/08/2010,2000,2200,2100,3
+Tamil Nadu,Chennai,Chennai,Rice,CO-43 (Medium) Boiled,FAQ,12/07/2010,1100,1300,1200,3
+Tamil Nadu,Chennai,Chennai,Rice,CO-43 (Medium) Boiled,FAQ,14/07/2010,900,1100,1000,3
+Tamil Nadu,Chennai,Chennai,Rice,CO-43 (Medium) Boiled,FAQ,31/08/2010,2300,2800,2400,3
+Tamil Nadu,Chennai,Chennai,Rice,CO-43 (Medium) Boiled,FAQ,07/09/2010,1800,2200,2100,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,30/07/2010,1450,1900,1600,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,09/09/2010,2000,2600,2400,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,15/09/2010,2500,3000,2800,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,13/07/2010,1550,1800,1650,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,18/08/2010,2400,3000,2600,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,24/08/2010,2200,2400,2300,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,02/09/2010,2800,3000,2900,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,09/09/2010,2050,2200,2100,3
+Tamil Nadu,Chennai,Chennai,Rice,CO-43 (Medium) Boiled,FAQ,29/07/2010,1350,1850,1600,3
+Tamil Nadu,Chennai,Chennai,Rice,CO-43 (Medium) Boiled,FAQ,30/08/2010,1700,2000,1960,3
+Tamil Nadu,Chennai,Chennai,Rice,CO-43 (Medium) Boiled,FAQ,13/09/2010,1800,2400,2200,3
+Tamil Nadu,Chennai,Chennai,Rice,CO-43 (Medium) Boiled,FAQ,15/09/2010,1800,2400,2000,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,03/08/2010,1370,1820,1650,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,19/08/2010,2400,2600,2500,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,26/08/2010,1900,2100,1950,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,07/09/2010,2700,3000,2800,3
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,16/07/2010,1000,1100,1050,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,21/07/2010,800,900,850,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,17/08/2010,1000,1200,1100,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,19/08/2010,1000,1200,1100,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,30/08/2010,1000,1200,1100,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,14/09/2010,800,1000,900,24
+Tamil Nadu,Chennai,Chennai,Wheat,Other,FAQ,19/08/2010,1200,1300,1260,1
+Tamil Nadu,Chennai,Chennai,Wheat,White,FAQ,30/07/2010,1500,2000,1750,1
+Tamil Nadu,Chennai,Chennai,Wheat,White,FAQ,23/08/2010,900,1600,1500,1
+Tamil Nadu,Chennai,Chennai,Wheat,White,FAQ,14/09/2010,1200,1800,1600,1
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,09/07/2010,700,1000,850,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,30/07/2010,800,1200,1100,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,27/08/2010,1000,1200,1100,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,13/09/2010,1000,1200,1050,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,28/07/2010,2500,2800,2650,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,30/07/2010,2600,2800,2700,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,24/08/2010,2000,2200,2100,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,27/08/2010,2000,2100,2050,23
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,14/07/2010,800,950,875,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,25/08/2010,1000,1100,1050,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,27/08/2010,900,1200,1000,24
+Tamil Nadu,Chennai,Chennai,Wheat,White,FAQ,09/07/2010,1000,1500,1200,1
+Tamil Nadu,Chennai,Chennai,Wheat,White,FAQ,29/07/2010,1500,2000,1750,1
+Tamil Nadu,Chennai,Chennai,Wheat,White,FAQ,31/08/2010,1000,1200,1100,1
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,23/07/2010,800,1200,1000,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,26/07/2010,700,1200,900,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,28/07/2010,800,1200,1000,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,19/08/2010,1000,1200,1100,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,23/08/2010,1000,1200,1100,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,24/08/2010,1000,1200,1100,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,26/08/2010,1000,1100,1050,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,30/08/2010,1000,1200,1100,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,31/08/2010,900,1100,1000,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,20/07/2010,800,1200,1000,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,23/07/2010,1500,2800,2200,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,30/08/2010,2000,2200,2100,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,09/09/2010,1400,1800,1600,23
+Tamil Nadu,Chennai,Chennai,Rice,AP Raw Rice Baptla Ponni,FAQ,09/07/2010,1750,2000,1830,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,16/07/2010,2500,3000,2750,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,21/07/2010,1250,1530,1300,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,22/07/2010,2550,2700,2600,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,17/08/2010,2800,3000,2900,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,25/08/2010,2000,2500,2300,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,27/08/2010,2300,2800,2500,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,03/09/2010,2400,2800,2600,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,13/09/2010,2200,2700,2500,3
+Tamil Nadu,Chennai,Chennai,Rice,CO-43 (Medium) Boiled,FAQ,09/07/2010,1200,1400,1300,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,09/07/2010,1150,1300,1230,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,13/07/2010,850,980,900,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,14/07/2010,900,1000,950,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,24/08/2010,1600,2000,1800,3
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,29/07/2010,800,1300,1000,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,17/08/2010,1000,1200,1100,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,25/08/2010,1000,1100,1050,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,02/09/2010,800,1200,900,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,08/09/2010,800,1000,900,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,14/09/2010,900,1000,950,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,06/08/2010,2000,2500,2200,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,17/08/2010,2000,2800,2600,23
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,14/07/2010,1500,1800,1650,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,29/07/2010,2500,2800,2650,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,03/08/2010,2450,2500,2475,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,26/08/2010,2200,2800,2600,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,16/09/2010,2200,2350,2280,3
+Tamil Nadu,Chennai,Chennai,Rice,CO-43 (Medium) Boiled,FAQ,22/07/2010,1350,1950,1650,3
+Tamil Nadu,Chennai,Chennai,Rice,CO-43 (Medium) Boiled,FAQ,08/09/2010,1800,2000,1900,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,12/07/2010,1150,1250,1200,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,22/07/2010,2550,2700,2600,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,28/07/2010,2500,2700,2600,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,17/08/2010,2600,2700,2650,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,02/09/2010,2500,3000,2600,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,08/09/2010,2500,3000,2800,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,14/09/2010,1800,2000,1900,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,16/09/2010,2200,2350,2280,3
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,09/07/2010,800,1000,900,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,23/07/2010,700,900,800,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,26/07/2010,700,900,800,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,29/07/2010,1600,1700,1650,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,03/08/2010,800,950,900,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,06/08/2010,900,1000,950,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,26/08/2010,1000,1100,1050,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,31/08/2010,800,1000,900,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,07/09/2010,900,1200,1100,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,09/09/2010,800,1000,900,24
+Tamil Nadu,Chennai,Chennai,Wheat,Other,FAQ,09/09/2010,900,1100,1000,1
+Tamil Nadu,Chennai,Chennai,Wheat,White,FAQ,08/09/2010,900,1400,1100,1
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,20/07/2010,950,1280,1115,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,18/08/2010,1200,1400,1300,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,24/08/2010,1200,1400,1300,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,13/09/2010,800,1000,900,24
+Tamil Nadu,Chennai,Chennai,Potato,Other,FAQ,16/09/2010,800,1200,1000,24
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,13/07/2010,700,1200,880,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,14/07/2010,900,1100,1000,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,16/07/2010,1000,1200,1100,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,03/08/2010,800,1300,1200,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,18/08/2010,1000,1100,1050,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,07/09/2010,900,1000,950,23
+Tamil Nadu,Chennai,Chennai,Onion,Big,FAQ,09/09/2010,900,1200,1000,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,26/07/2010,2000,3000,2500,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,29/07/2010,2600,2800,2700,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,19/08/2010,1800,2100,2000,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,23/08/2010,1900,2400,2000,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,25/08/2010,1800,2000,1900,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,03/09/2010,1800,2000,1900,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,13/09/2010,1700,2000,1800,23
+Tamil Nadu,Chennai,Chennai,Onion,Other,FAQ,16/09/2010,1000,1200,1100,23
+Tamil Nadu,Chennai,Chennai,Wheat,Other,FAQ,14/09/2010,800,1000,900,1
+Tamil Nadu,Chennai,Chennai,Wheat,White,FAQ,12/07/2010,1200,1600,1400,1
+Tamil Nadu,Chennai,Chennai,Wheat,White,FAQ,02/08/2010,1800,1900,1890,1
+Tamil Nadu,Chennai,Chennai,Wheat,White,FAQ,03/08/2010,1500,2000,1750,1
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,12/07/2010,1150,1450,1300,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,19/08/2010,2800,3100,3000,3
+Tamil Nadu,Chennai,Chennai,Rice,B P T,FAQ,14/09/2010,2000,2200,2050,3
+Tamil Nadu,Chennai,Chennai,Rice,CO-43 (Medium) Boiled,FAQ,13/07/2010,900,1100,1000,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,21/07/2010,940,11309,1000,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,23/08/2010,2200,2400,2300,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,27/08/2010,1900,2100,2000,3
+Tamil Nadu,Chennai,Chennai,Rice,Other,FAQ,31/08/2010,2500,2800,2600,3
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,07/01/2009,2400,3000,2800,77
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,03/01/2008,600,800,700,34
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,29/12/2008,1000,1200,1100,34
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,01/01/2009,1200,1400,1300,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,15/01/2009,1400,1800,1600,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,19/01/2009,1200,1400,1300,87
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,03/01/2009,6800,7200,7000,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,13/01/2009,7500,8000,7750,17
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,02/01/2009,4000,5000,4500,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,05/01/2009,4000,5000,4500,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,06/01/2009,4000,5000,4500,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,10/01/2009,4000,5000,4500,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,13/01/2009,2000,0,2200,190
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,08/01/2008,400,500,450,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,16/12/2008,600,700,650,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,26/12/2008,666,800,750,78
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,03/01/2008,1200,1400,1300,81
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,01/01/2009,5000,6000,5500,103
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,02/01/2009,5000,6000,5500,103
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,06/01/2009,5000,6000,5500,103
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,10/01/2009,5000,6000,5500,103
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,15/01/2009,5000,6000,5500,103
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,08/01/2008,600,800,700,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,26/12/2008,800,1000,900,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,29/12/2008,800,1000,900,87
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,26/12/2008,800,1000,900,154
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,29/12/2008,800,1000,900,154
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,02/01/2009,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,05/01/2009,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,15/01/2009,2000,2400,2200,21
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,02/01/2009,1000,1200,1100,154
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,03/01/2009,1000,1200,1100,154
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,02/01/2009,1000,1600,1300,23
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,10/01/2009,1600,2400,2000,23
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,12/01/2009,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,15/01/2009,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,08/01/2008,1000,1200,1100,71
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,01/01/2009,800,1000,900,180
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,05/01/2009,600,900,750,180
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,06/01/2009,800,1000,900,180
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,10/01/2009,800,1000,900,180
+Tamil Nadu,Chennai,Koyambedu,Grapes,Other,Medium,08/01/2008,3600,4000,3800,22
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,03/01/2008,800,1000,900,180
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,26/12/2008,1000,1400,1200,180
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,08/01/2008,7000,8000,7500,25
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,09/01/2008,7000,8000,7500,25
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,16/12/2008,2000,2200,2100,25
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,26/12/2008,1800,2400,2200,25
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,29/12/2008,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,08/01/2008,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,08/01/2008,6000,6400,6200,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,09/01/2008,6000,6400,6200,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,29/12/2008,7000,7500,7250,17
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,16/12/2008,800,1600,1200,23
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,31/12/2008,1200,2000,1600,23
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,16/12/2008,700,800,750,24
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,07/01/2009,1000,1200,1100,71
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,19/01/2009,1000,1400,1200,71
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,08/01/2008,800,1000,900,35
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,16/12/2008,1200,1600,1400,35
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,01/01/2009,800,1000,900,72
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,03/01/2009,700,900,800,72
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,15/01/2009,1300,1500,1400,72
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,01/01/2009,2000,3000,2500,35
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,10/01/2009,2000,2400,2200,35
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,13/01/2009,2000,2200,2100,35
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,02/01/2009,1200,1400,1300,34
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,13/01/2009,1400,1600,1500,34
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,05/01/2009,700,900,800,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,10/01/2009,700,800,750,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,15/01/2009,300,400,350,78
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,01/01/2009,2000,2200,2100,81
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,02/01/2009,2000,2200,2100,81
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,06/01/2009,2400,2600,2500,81
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,12/01/2009,2000,2400,2200,81
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,14/01/2009,1400,1800,1600,81
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,15/01/2009,1400,1800,1600,81
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,19/01/2009,1000,1200,1100,81
+Tamil Nadu,Chennai,Koyambedu,Onion,Nasik,FAQ,02/07/2014,2200,2800,2500,23
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,11/12/2007,500,600,550,34
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,18/12/2007,800,900,850,72
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,19/12/2007,800,900,850,72
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,19/12/2007,333,400,367,78
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,18/12/2007,1000,1100,1050,81
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,15/12/2007,600,1200,900,23
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,15/12/2007,600,700,650,35
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,31/12/2008,4000,4400,4200,103
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,15/12/2007,1000,1333,1166,180
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,19/12/2007,666,1000,833,180
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,11/12/2007,2200,2400,2300,103
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,18/12/2007,2200,2400,2300,103
+Tamil Nadu,Chennai,Koyambedu,Apple,American,Medium,15/12/2007,2500,2700,2600,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Small,15/12/2007,6400,6600,6500,17
+Tamil Nadu,Chennai,Koyambedu,Banana,Banana - Ripe,Medium,11/12/2007,1600,1800,1700,19
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,11/12/2007,7000,8000,7500,25
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,01/01/2009,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,03/01/2009,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,05/01/2009,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,13/01/2009,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,02/01/2009,900,1100,1000,24
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,06/01/2009,1000,1200,1100,24
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,07/01/2009,1000,1200,1100,24
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,10/01/2009,1000,1200,1100,24
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,13/01/2009,1200,1400,1300,24
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,05/01/2009,1000,1200,1100,154
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,06/01/2009,1200,1400,1300,154
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,15/01/2009,750,850,800,154
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,19/01/2009,500,600,550,154
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,06/01/2009,700,900,800,23
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,12/01/2009,1600,2400,2000,23
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,15/01/2009,1600,2200,1900,23
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,15/12/2007,600,700,650,87
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,16/12/2008,4000,4400,4200,103
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,30/12/2008,4000,4400,4200,103
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,15/12/2007,800,900,850,72
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,15/12/2007,1200,1400,1300,71
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,15/12/2007,1000,1100,1050,81
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,15/12/2007,467,533,500,78
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,09/01/2008,1000,1100,1050,24
+Tamil Nadu,Chennai,Koyambedu,Banana,Banana - Ripe,Medium,08/01/2008,1600,1800,1700,19
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,16/12/2008,2300,2500,2400,21
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,29/12/2008,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,30/12/2008,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,16/12/2008,1400,1600,1500,81
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,30/12/2008,2000,2400,2200,81
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,03/01/2008,1200,1400,1300,77
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,30/12/2008,800,1000,900,87
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,03/01/2008,800,900,850,72
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,26/12/2008,700,900,800,72
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,09/01/2008,1000,1200,1100,71
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,31/12/2008,800,1000,900,71
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,09/01/2008,467,533,500,78
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,05/01/2009,5000,6000,5500,103
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,12/01/2009,5000,6000,5500,103
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,14/01/2009,5000,6000,5500,103
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,07/01/2009,800,1000,900,180
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,03/01/2009,4000,5000,4500,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,12/01/2009,4500,5500,5000,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,15/01/2009,4500,5500,5000,190
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,03/01/2009,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,13/01/2009,2000,2400,2200,21
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,14/01/2009,2000,2400,2200,21
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,19/01/2009,2000,2400,2200,21
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,03/01/2009,2000,2200,2100,81
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,03/01/2009,900,1100,1000,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,19/01/2009,300,400,350,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,01/01/2009,666,800,733,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,06/01/2009,1000,1200,1100,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,07/01/2009,700,800,750,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,19/01/2009,400,500,450,78
+Tamil Nadu,Chennai,Koyambedu,Apple,American,Medium,08/01/2008,2800,3000,2900,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,16/12/2008,7000,7500,7250,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,30/12/2008,7000,7500,7250,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,31/12/2008,7000,7500,7250,17
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,03/01/2008,300,400,350,154
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,08/01/2008,300,400,350,154
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,09/01/2008,300,400,350,154
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,31/12/2008,800,900,850,154
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,02/01/2009,2000,3000,2500,35
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,12/01/2009,1400,1600,1500,34
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,29/12/2008,4000,5000,4500,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,30/12/2008,4000,5000,4500,190
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,11/12/2007,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,15/12/2007,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,18/12/2007,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,15/12/2007,4000,4400,4200,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,18/12/2007,4200,4400,4300,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,19/12/2007,4200,4400,4300,190
+Tamil Nadu,Chennai,Koyambedu,Apple,American,Small,11/12/2007,2500,3000,2750,17
+Tamil Nadu,Chennai,Koyambedu,Banana,Banana - Ripe,Medium,15/12/2007,1600,1800,1700,19
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,18/12/2007,300,400,350,154
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,19/12/2007,300,400,350,154
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,19/12/2007,1000,1100,1050,24
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,18/12/2007,600,700,650,35
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,19/12/2007,400,600,500,35
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,18/12/2007,500,600,550,34
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,05/01/2009,1000,1200,1100,71
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,12/01/2009,1000,1400,1200,71
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,15/01/2009,1000,1400,1200,71
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,05/01/2009,700,900,800,72
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,06/01/2009,2400,3000,2800,77
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,12/01/2009,2400,3000,2800,77
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,14/01/2009,2400,3000,2800,77
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,09/01/2008,1000,1200,1100,35
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,30/12/2008,2000,3000,2500,35
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,31/12/2008,2000,3000,2500,35
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,08/01/2008,600,800,700,34
+Tamil Nadu,Chennai,Koyambedu,Grapes,Other,Medium,09/01/2008,3600,4000,3800,22
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,15/12/2007,300,400,350,154
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Small,11/12/2007,4000,4400,4200,190
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Small,11/12/2007,6300,6500,6400,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,19/12/2007,6400,6600,6500,17
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,08/01/2008,800,1000,900,72
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,29/12/2008,800,1000,900,72
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,30/12/2008,800,1000,900,72
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,14/01/2009,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,08/01/2008,1200,1400,1300,81
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,29/12/2008,2000,2400,2200,81
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,09/01/2008,500,600,550,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,31/12/2008,1000,1200,1100,87
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,16/12/2008,800,1000,900,71
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,30/12/2008,800,1000,900,71
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,09/01/2008,1600,2000,1800,77
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,29/12/2008,666,800,733,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,08/01/2008,300,400,350,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,31/12/2008,666,800,733,78
+Tamil Nadu,Chennai,Koyambedu,Potato,Badshah,FAQ,02/07/2014,2000,2200,2100,24
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,01/01/2009,1200,1400,1300,34
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,05/01/2009,1200,1400,1300,34
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,14/01/2009,1000,1400,1200,34
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,15/01/2009,1000,1400,1200,34
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,19/01/2009,1000,1400,1200,34
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,01/01/2009,2400,3000,2800,77
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,05/01/2009,2400,3000,2800,77
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,13/01/2009,2400,3000,2800,77
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,26/12/2008,1100,1300,1200,34
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,03/01/2008,600,800,700,35
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,29/12/2008,2000,3000,2500,35
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,01/01/2009,1000,2000,1500,23
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,03/01/2009,1000,1600,1300,23
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,14/01/2009,1600,2200,1900,23
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,19/01/2009,1400,1800,1600,23
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,01/01/2009,7000,7500,7250,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,02/01/2009,7000,7500,7250,17
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,07/01/2009,4000,5000,4500,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,14/01/2009,4500,5500,5000,190
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,12/01/2009,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,13/01/2009,900,1000,950,154
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,14/01/2009,750,850,800,154
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,02/01/2009,800,1000,900,180
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,03/01/2009,800,1000,900,180
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,12/01/2009,1000,1400,1200,180
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,13/01/2009,1000,1400,1200,180
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,19/01/2009,600,1000,800,180
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,03/01/2009,5000,6000,5500,103
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,13/01/2009,5000,6000,5500,103
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,10/01/2009,2000,2400,2200,81
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,02/01/2009,700,800,750,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,06/01/2009,700,900,800,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,13/01/2009,700,800,750,78
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,05/01/2009,2000,3000,2500,35
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,06/01/2009,2000,3000,2500,35
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,12/01/2009,2000,2200,2100,35
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,15/01/2009,1400,1800,1600,35
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,19/01/2009,1000,1200,1100,72
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,13/01/2009,1000,1400,1200,71
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,02/01/2009,1200,1400,1300,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,07/01/2009,1200,1400,1300,87
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,03/01/2009,900,1000,950,24
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,12/01/2009,1200,1400,1300,24
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,15/01/2009,1000,1150,1100,24
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,19/01/2009,1000,1200,1100,24
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Small,11/12/2007,800,900,850,72
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,19/12/2007,500,600,550,34
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,19/12/2007,6500,7500,7000,25
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,19/12/2007,900,1000,950,81
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,15/12/2007,267,333,300,78
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,08/01/2008,600,1000,800,23
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,09/01/2008,500,900,700,23
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,26/12/2008,1000,1800,1400,23
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,11/12/2007,1300,1500,1400,77
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,19/12/2007,1300,1500,1400,77
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,29/12/2008,4000,4400,4200,103
+Tamil Nadu,Chennai,Koyambedu,Banana,Banana - Ripe,Medium,03/01/2008,1600,1800,1700,19
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,30/12/2008,800,1000,900,154
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,09/01/2008,800,1000,900,180
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,26/12/2008,2200,2400,2300,21
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,31/12/2008,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,09/01/2008,4000,4400,4200,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,31/12/2008,4000,5000,4500,190
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,08/01/2008,800,1100,1000,24
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,11/12/2007,600,1300,1000,23
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,18/12/2007,600,1200,900,23
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,19/12/2007,600,1200,900,23
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,02/01/2009,800,1000,900,71
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,14/01/2009,1000,1400,1200,71
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,10/01/2009,1400,1600,1500,34
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,10/01/2009,800,1000,900,72
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,13/01/2009,1000,1200,1100,72
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,14/01/2009,1300,1500,1400,72
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,07/01/2009,2000,3000,2500,35
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,01/01/2009,666,800,733,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,12/01/2009,700,800,750,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,14/01/2009,600,700,650,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,03/01/2009,700,900,800,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,05/01/2009,1000,1000,1000,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,12/01/2009,750,850,800,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,14/01/2009,600,700,650,78
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,10/01/2009,2400,3000,2800,77
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,07/01/2009,2400,2600,2500,81
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,06/01/2009,1200,1400,1300,87
+Tamil Nadu,Chennai,Koyambedu,Banana,Banana - Ripe,Medium,18/12/2007,1600,1800,1700,19
+Tamil Nadu,Chennai,Koyambedu,Banana,Banana - Ripe,Medium,19/12/2007,1600,1800,1700,19
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,11/12/2007,600,800,700,35
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,15/12/2007,500,600,550,34
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Small,18/12/2007,6400,6600,6500,17
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,15/12/2007,1000,1100,1050,24
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,18/12/2007,1000,1100,1050,24
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,18/12/2007,267,333,300,78
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,11/12/2007,1000,1200,1100,81
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,18/12/2007,6500,7500,7000,25
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,18/12/2007,1200,1400,1300,71
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,19/12/2007,1200,1400,1300,71
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,15/12/2007,1300,1500,1400,77
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,07/01/2009,5000,6000,5500,103
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,19/12/2007,1600,2000,1800,103
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,03/01/2008,1000,1100,1050,24
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,26/12/2008,800,1000,900,24
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,29/12/2008,1000,1200,1100,24
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,30/12/2008,1000,1200,1100,24
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,31/12/2008,900,1100,1000,24
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,03/01/2008,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,03/01/2008,600,1000,800,23
+Tamil Nadu,Chennai,Koyambedu,Onion,Other,FAQ,29/12/2008,1600,2000,1800,23
+Tamil Nadu,Chennai,Koyambedu,Apple,American,Medium,03/01/2008,2800,3000,2900,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,26/12/2008,7000,7500,7250,17
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,29/12/2008,800,1000,900,180
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,30/12/2008,800,1000,900,180
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,31/12/2008,800,1000,900,180
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,26/12/2008,4600,5000,4800,190
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,09/01/2008,600,800,700,34
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,16/12/2008,1000,1200,1100,34
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,30/12/2008,1000,1200,1100,34
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,31/12/2008,1000,1200,1100,34
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,30/12/2008,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,26/12/2008,2000,3000,2500,35
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,03/01/2008,200,300,250,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,09/01/2008,300,400,350,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,16/12/2008,600,700,650,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,29/12/2008,666,800,733,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,30/12/2008,533,700,600,78
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,13/01/2009,1600,2400,2000,23
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,08/01/2008,1600,2000,1800,77
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,01/01/2009,1000,1200,1100,154
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,07/01/2009,1200,1400,1300,154
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,26/12/2008,2000,2400,2200,81
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,31/12/2008,2000,2200,2100,81
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,03/01/2008,600,800,700,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,16/12/2008,800,1000,900,87
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,01/01/2009,900,1100,1000,24
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,14/01/2009,900,1100,1000,24
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,02/01/2009,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,10/01/2009,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,19/01/2009,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,06/01/2009,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Potato,Jyoti,FAQ,02/07/2014,2000,2200,2100,24
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,18/12/2007,600,700,650,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,19/12/2007,600,700,650,87
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,16/12/2008,600,800,700,154
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,08/01/2008,2400,2600,2500,103
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,11/12/2007,1000,1333,1166,180
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,14/01/2009,7500,8000,7750,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,19/01/2009,7500,8000,7700,17
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,15/01/2009,800,1200,1000,180
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,19/12/2007,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,18/12/2007,666,1000,833,180
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,11/12/2007,300,400,350,154
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,15/12/2007,2200,2400,2300,103
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,15/12/2007,6500,7500,7000,25
+Tamil Nadu,Chennai,Koyambedu,Potato,Potato,FAQ,11/12/2007,1100,1200,1150,24
+Tamil Nadu,Chennai,Koyambedu,Apple,American,Medium,18/12/2007,2400,2600,2500,17
+Tamil Nadu,Chennai,Koyambedu,Apple,American,Medium,19/12/2007,2600,2800,2700,17
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Small,11/12/2007,1200,1400,1300,71
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,05/01/2009,7000,7500,7250,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Small,06/01/2009,7000,7500,7250,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,07/01/2009,7000,7500,7250,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,10/01/2009,7000,7400,7200,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,12/01/2009,8000,8500,8250,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,15/01/2009,7500,8000,7750,17
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,01/01/2009,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,07/01/2009,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,10/01/2009,2000,2200,2100,21
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,19/01/2009,5000,6000,5500,103
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,10/01/2009,1200,1400,1300,154
+Tamil Nadu,Chennai,Koyambedu,Cabbage,Cabbage,FAQ,12/01/2009,1200,1400,1300,154
+Tamil Nadu,Chennai,Koyambedu,Onion,Bellary,FAQ,02/07/2014,2000,2400,2300,23
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,01/01/2009,4000,5000,4500,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,19/01/2009,5000,5500,5200,190
+Tamil Nadu,Chennai,Koyambedu,Apple,American,Medium,09/01/2008,2800,3000,2900,17
+Tamil Nadu,Chennai,Koyambedu,Apple,Royal Delicious,Medium,03/01/2008,6000,6400,6200,17
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,14/01/2009,800,1200,1000,180
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,05/01/2009,1000,1600,1300,23
+Tamil Nadu,Chennai,Koyambedu,Banana,Banana - Ripe,Medium,09/01/2008,1600,1800,1700,19
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,08/01/2008,800,1000,900,180
+Tamil Nadu,Chennai,Koyambedu,Lime,Other,Medium,16/12/2008,600,1000,800,180
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,03/01/2008,4000,4400,4200,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,08/01/2008,4000,4400,4200,190
+Tamil Nadu,Chennai,Koyambedu,Pomegranate,Pomogranate,Medium,16/12/2008,4600,5000,4800,190
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,06/01/2009,1400,1600,1500,34
+Tamil Nadu,Chennai,Koyambedu,Cauliflower,Cauliflower,FAQ,07/01/2009,1400,1600,1500,34
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,06/01/2009,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,07/01/2009,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,02/01/2009,800,1000,900,72
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,06/01/2009,700,900,800,72
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,07/01/2009,800,1000,900,72
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,12/01/2009,1000,1200,1100,72
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,07/01/2009,900,1000,950,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,02/01/2009,700,900,800,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,10/01/2009,700,800,750,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,13/01/2009,600,700,650,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,15/01/2009,300,400,350,78
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,01/01/2009,800,1000,900,71
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,03/01/2009,800,1000,900,71
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,06/01/2009,1000,1200,1100,71
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,10/01/2009,1000,1200,1100,71
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,05/01/2009,2000,2200,2100,81
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,13/01/2009,1800,2000,1900,81
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,03/01/2009,2400,3000,2800,77
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,15/01/2009,2400,3000,2800,77
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,03/01/2009,1000,1200,1100,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,05/01/2009,1000,1200,1100,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,10/01/2009,1600,2000,1800,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,12/01/2009,1600,2000,1800,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,13/01/2009,1600,2000,1800,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,14/01/2009,1400,1800,1600,87
+Tamil Nadu,Chennai,Koyambedu,Green Chilli,Green Chilly,FAQ,11/12/2007,600,700,650,87
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,18/12/2007,1300,1500,1400,77
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,03/01/2008,2400,2600,2500,103
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,09/01/2008,2400,2600,2500,103
+Tamil Nadu,Chennai,Koyambedu,Ginger(Green),Green Ginger,FAQ,26/12/2008,4000,4400,4200,103
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,11/12/2007,400,533,467,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,18/12/2007,333,400,367,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,11/12/2007,400,533,467,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Local,FAQ,19/12/2007,200,267,233,78
+Tamil Nadu,Chennai,Koyambedu,Pineapple,Pine Apple,Medium,09/01/2008,1800,2000,1900,21
+Tamil Nadu,Chennai,Koyambedu,Onion,Onion,FAQ,30/12/2008,1600,2400,2000,23
+Tamil Nadu,Chennai,Koyambedu,Garlic,Garlic,FAQ,31/12/2008,1800,2200,2000,25
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,09/01/2008,800,1000,900,72
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,16/12/2008,800,1000,900,72
+Tamil Nadu,Chennai,Koyambedu,Papaya,Papaya,Medium,31/12/2008,800,1000,900,72
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,03/01/2008,1000,1200,1100,71
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,26/12/2008,800,1000,900,71
+Tamil Nadu,Chennai,Koyambedu,Chikoos(Sapota),Sapota,Medium,29/12/2008,800,1000,900,71
+Tamil Nadu,Chennai,Koyambedu,Mousambi(Sweet Lime),Mousambi,Medium,16/12/2008,2500,3000,2800,77
+Tamil Nadu,Chennai,Koyambedu,Bitter gourd,Bitter Gourd,FAQ,09/01/2008,1200,1400,1300,81
+Tamil Nadu,Chennai,Koyambedu,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Medium,09/01/2008,3600,4000,3800,357
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,03/01/2008,400,467,433,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,26/12/2008,666,866,766,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,30/12/2008,666,800,733,78
+Tamil Nadu,Chennai,Koyambedu,Tomato,Hybrid,FAQ,31/12/2008,666,800,733,78
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,03/01/2009,2000,3000,2500,35
+Tamil Nadu,Chennai,Koyambedu,Brinjal,Round,FAQ,19/01/2009,600,800,700,35
