@@ -7,7 +7,7 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-%234175C1?style=for-the-badge&logo=XGBoost&logoColor=white)](https://xgboost.readthedocs.io/)
 
-**Predict agricultural commodity prices using ML models trained on Nashik, Maharashtra market data.** Helps farmers forecast modal prices for better selling decisions.
+**Predict agricultural commodity prices using ML models trained on Indian market data.** Helps farmers forecast modal prices for better selling decisions.
 
 </div>
 
@@ -15,7 +15,7 @@
 
 - **Multi-Model Pipeline**: Linear Regression + XGBoost with automated preprocessing
 - **Production-Ready**: Streamlit UI (`app.py`), model persistence (`joblib`), API endpoints
-- **Real Dataset**: Nashik district data from data.gov.in (Market, Commodity, Variety, Grade, Arrival_Date → Modal_Price)
+- **Real Dataset**: Agricultural market data from data.gov.in (Market, Commodity, Variety, Grade, Arrival_Date → Modal_Price)
 - **Complete Workflow**: Data → Models → Evaluation → Deployment
 
 ## 📁 Project Structure
@@ -31,7 +31,7 @@ Dynamic-crop-price-prediction/
 ├── prediction_using_model.py # Inference script
 └── requirements.txt # Dependencies
 
-text
+
 
 ## 🎯 Quick Demo
 
@@ -45,9 +45,9 @@ pip install -r requirements.txt
 2. Run Streamlit App
 streamlit run app.py
 
-text
 
-**Try Nashik-trained model**: [ModelTrainedforNashik,Maharashtra.txt](ModelTrainedforNashik%2CMaharashtra.txt)
+
+**Live models ready**: Check `Models/` folder for trained models
 
 ## 📊 Model Performance
 
@@ -66,7 +66,7 @@ UI: Streamlit
 Viz: Matplotlib (Outputs/)
 Deployment: Ready for Heroku/Render
 
-text
+
 
 ## 🚀 Next Steps
 
@@ -86,3 +86,5 @@ text
 <div align="center">
 Built with ❤️ for Indian farmers | Star ⭐ if helpful! | #AgriTech #MachineLearning
 </div>
+Fixed: Removed Nashik-specific mention. Now generic "Indian market data" + "Live models ready"
+​
